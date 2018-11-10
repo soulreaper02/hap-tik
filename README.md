@@ -11,7 +11,8 @@ To run question 2 locally
 ## DB : MongoDB instance hosted on mlab 
 
 ## Technologies used:
-``` NodeJS
+``` 
+NodeJS
 Express
 MongoDB
 ```
