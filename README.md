@@ -20,3 +20,9 @@ NodeJS
 Express
 MongoDB
 ```
+The same is also deployed on heroku so you can test the API's without running the instance locally
+
+``` 
+replace localhost with https://haptik.herokuapp.com/
+
+```
