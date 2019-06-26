@@ -29,4 +29,9 @@ module.exports = function(app) {
             });
         }
     });
+    
+    app.get('/textlocal', (req, res) => {
+       console.log('I am invoked');
+        console.log(req.body)
+    })
 }
